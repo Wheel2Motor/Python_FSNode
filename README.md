@@ -2,9 +2,7 @@
 
 ## Introduction
 ### File system node. 
-### Easy methods for file system recursive operation.
-The motivation for writing this python class is for easy folder recursive operation.
-After searching and searching on the internet, people always give some awkward methods, these methods can truely run, but not convenient.
+### Easy methods for file system iteration
 
 ## Structure
 |FSNode
